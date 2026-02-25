@@ -5,6 +5,9 @@
 </h1>
 
 <p align="center">
+  <a href="https://lexical.nesalia.com">
+    <img src="https://img.shields.io/badge/website-lexical.nesalia.com-blue" alt="Website">
+  </a>
   <a href="#">
     <img src="https://img.shields.io/badge/status-wip-orange" alt="Status">
   </a>
@@ -12,6 +15,14 @@
     <img src="https://img.shields.io/github/license/nesalia-inc/lexical" alt="License">
   </a>
 </p>
+
+## Description
+
+A modern, modular wrapper around Lexical with shadcn-style components for React. Build rich text editors with a flexible, composable API inspired by shadcn/ui design patterns.
+
+## Topics
+
+lexical, react, rich-text-editor, editor, text-editor, shadcn, ui-components, web-development, javascript, typescript
 
 > **Warning:** This project is currently a Work In Progress (WIP). Nothing is implemented yet.
 

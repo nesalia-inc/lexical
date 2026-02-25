@@ -1,4 +1,3 @@
-# Lexical WIP
 
 <h1 align="center">
   A modern, modular wrapper around Lexical with shadcn-style components

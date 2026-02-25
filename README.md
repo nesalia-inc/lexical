@@ -1,10 +1,23 @@
 # Lexical WIP
 
+<h1 align="center">
+  A modern, modular wrapper around Lexical with shadcn-style components
+</h1>
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/status-wip-orange" alt="Status">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/github/license/nesalia-inc/lexical" alt="License">
+  </a>
+</p>
+
 > **Warning:** This project is currently a Work In Progress (WIP). Nothing is implemented yet.
 
 ## Overview
 
-A modern, modular wrapper around [Lexical](https://lexical.dev/) with shadcn-style components.
+This project aims to provide a modern, modular wrapper around [Lexical](https://lexical.dev/) with shadcn-style components for easy integration into React applications.
 
 ## Status
 
@@ -30,8 +43,16 @@ This project is in its early planning phase. See our [GitHub Issues](https://git
 
 ## Contributing
 
-This is a work in progress. Please check the issue tracker for current status.
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
+## Security
+
+If you discover any security vulnerabilities, please send an e-mail to security@nesalia.com.
+
+See [SECURITY.md](SECURITY.md) for details.
 
 ## License
 
-MIT
+MIT License - see the [LICENSE](LICENSE) file for details.

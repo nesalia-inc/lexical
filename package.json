@@ -31,12 +31,5 @@
   "engines": {
     "node": ">=20"
   },
-  "lint-staged": {
-    "*.{ts,tsx,js,jsx}": [
-      "eslint --fix"
-    ],
-    "*.{json,md}": [
-      "prettier --write"
-    ]
-  }
+  "lint-staged": {}
 }

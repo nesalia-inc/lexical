@@ -19,10 +19,6 @@
 
 A modern, modular wrapper around Lexical with shadcn-style components for React. Build rich text editors with a flexible, composable API inspired by shadcn/ui design patterns.
 
-## Topics
-
-lexical, react, rich-text-editor, editor, text-editor, shadcn, ui-components, web-development, javascript, typescript
-
 > **Warning:** This project is currently a Work In Progress (WIP). Nothing is implemented yet.
 
 ## Overview
